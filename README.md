@@ -6,11 +6,13 @@ The focus of this project was writing strong SQL Queries. UI was not the main fo
 This folder contains the following: 
 
 1) Problem Statement : It defines the original problem. 
-2) User Guide: Constains explanations and working project screenshots. 
-3) Create_Table.sql : Queries to create tables. 
-4) Populate_Table.sql: Queries to populate tables. 
-5) Program_queries.sql: Queries mentioned in Deliverable 3 Problem statement. 
-6) mylib.py: Python code for front end. 
+2) Relational Schema: This is the relational schema diagram of the public library database as defined in the problem statement. 
+3) User Guide: Constains explanations and working project screenshots. 
+4) Create_Table.sql : Queries to create tables. 
+5) Populate_Table.sql: Queries to populate tables. 
+6) Insert_Queries_Generator.xlsx: Spreadsheet used to generate insert queries. 
+7) Program_queries.sql: Queries mentioned in Deliverable 3 Problem statement. 
+8) mylib.py: Python code for front end. 
 
 ## Instructions to run
 1) Clone this repository on your computer. 
