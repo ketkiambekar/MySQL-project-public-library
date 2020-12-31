@@ -1,5 +1,5 @@
 This project was part of my coursework at NJIT. 
-##Subject: CS 631 - Database Management Systems Design. 
+## Subject: CS 631 - Database Management Systems Design. 
 
 The focus of this project was writing strong SQL Queries. UI was not the main focus of the project. 
 
@@ -19,7 +19,7 @@ This folder contains the following:
 4) Change the query connection parameters from lines 7 through 11 in the my_lib.py file. Add your database and user information. 
 5) Run the my_lib.py program.
 
-####Next Steps for the project: 
+### Next Steps for the project: 
 To create a proper web UI and host it on Google Cloud 
 
 
