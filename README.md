@@ -21,7 +21,7 @@ This folder contains the following:
 ## Instructions to run
 1) Clone this repository on your computer. 
 2) Create a New database on your MySQL backend. 
-3) Run queries Create_Table.sql and Populate_Table.sql on your newly cvreated Database. 
+3) Run queries Create_Table.sql and Populate_Table.sql on your newly created Database. 
 4) Change the query connection parameters from lines 7 through 11 in the my_lib.py file. Add your database and user information. 
 5) Run the my_lib.py program.
 
