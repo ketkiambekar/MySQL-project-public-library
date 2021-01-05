@@ -15,7 +15,7 @@ This folder contains the following:
 8) mylib.py: Python code for front end. 
 
 ## Prerequites
-1) PHPMyAdmin. Get Free access to a PHPMyAdmin on [Pro Free Host](https://profreehost.com/)
+1) PHPMyAdmin for MySQL. Get Free access to a PHPMyAdmin on [Pro Free Host](https://profreehost.com/)
 2) Python 3.x 
 
 ## Instructions to run
