@@ -14,6 +14,10 @@ This folder contains the following:
 7) Program_queries.sql: Queries mentioned in Deliverable 3 Problem statement. 
 8) mylib.py: Python code for front end. 
 
+## Prerequites
+1) PHPMyAdmin. Get Free access to a PHPMyAdmin on [Pro Free Host](https://profreehost.com/)
+2) Python 3.x 
+
 ## Instructions to run
 1) Clone this repository on your computer. 
 2) Create a New database on your MySQL backend. 
