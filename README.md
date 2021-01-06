@@ -25,8 +25,6 @@ This folder contains the following:
 4) Change the query connection parameters from lines 7 through 11 in the my_lib.py file. Add your database and user information. 
 5) Run the my_lib.py program.
 
-## Screenshots
-![screenshots](/images/Screenshot_grid.png)
 
 ### Next Steps for the project: 
 To create a proper web UI and host it on Google Cloud 
